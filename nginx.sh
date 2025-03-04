@@ -96,9 +96,9 @@ start_nginx() {
 
 check_service_status() {
     if systemctl is-active --quiet nginx; then
-        echo -e "\e[32mNginx is running\e[0m"
+        echo -e "Nginx is running"
     else
-        echo -e "\e[31mNginx failed to start\e[0m"
+        echo -e "Nginx failed to start"
     fi
 }
 
