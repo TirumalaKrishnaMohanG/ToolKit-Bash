@@ -1,5 +1,5 @@
 # ToolKit-Bash
-# **BashOps – Effortless Tool Installation & Setup**  
+## **BashOps – Effortless Tool Installation & Setup**  
 
 Manually installing and setting up tools like **Nginx, Apache, Docker, Grafana, and more** can be tedious. That’s where **BashOps** comes in!  
 
