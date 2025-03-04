@@ -1,4 +1,5 @@
 #!/bin/bash
+# By Tirumala Krishna Mohan Gudimalla
 
 check_admin_rights() {
     if [ "$EUID" -ne 0 ]; then
